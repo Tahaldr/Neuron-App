@@ -123,7 +123,6 @@ Les entités centrales attendues sont :
 | Conversation  | Instance de discussion |
 | Message       | Message IA ou utilisateur |
 | Group         | Catégorisation de conversations |
-| Rating        | Évaluation des réponses IA |
 
 Relations prévues :
 
@@ -161,6 +160,7 @@ La version minimale du projet devra couvrir les éléments suivants :
 
 - Inscription et connexion utilisateur,
 - Déconnexion,
+- Diplay tutorial module
 - Création d’une conversation IA,
 - Génération automatique du nom de conversation,
 - Réponses IA contextualisées,
